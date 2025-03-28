@@ -1,0 +1,16 @@
+2025-03-28 17:14:03.407217 - Received CBT.V508.FILE1023.PDS from FILE1023.XMI 
+2025-03-28 17:14:03.408335 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE1023.PDS, moved to PDS/$$$#DATE
+2025-03-28 17:14:03.409052 - Found $$COPYRT.txt (text/plain) in CBT.V508.FILE1023.PDS, moved to PDS/$$COPYRT
+2025-03-28 17:14:03.409796 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE1023.PDS, moved to PDS/$$NOTE01
+2025-03-28 17:14:03.410572 - Found $$NOTE02.eml (message/rfc822) in CBT.V508.FILE1023.PDS, moved to PDS/$$NOTE02
+2025-03-28 17:14:03.411240 - Found $$README.txt (text/plain) in CBT.V508.FILE1023.PDS, moved to PDS/$$README
+2025-03-28 17:14:03.411942 - Found $EXPAND.txt (text/plain) in CBT.V508.FILE1023.PDS, moved to PDS/$EXPAND
+2025-03-28 17:14:03.412772 - Found @FIL1023.txt (text/plain) in CBT.V508.FILE1023.PDS, moved to PDS/@FIL1023
+2025-03-28 17:14:03.413463 - Found FINALPKG.jcl (text/plain) in CBT.V508.FILE1023.PDS, moved to PDS/FINALPKG
+2025-03-28 17:14:03.414630 - Found PACKAGE.jcl (text/plain) in CBT.V508.FILE1023.PDS, moved to PDS/PACKAGE
+2025-03-28 17:14:03.415742 - Found TEST$EXP.jcl (text/plain) in CBT.V508.FILE1023.PDS, moved to PDS/TEST$EXP
+2025-03-28 17:14:03.419687 - Found XMIDOC.xmi (application/xmit) in CBT.V508.FILE1023.PDS, moved to PDS/XMIDOC
+2025-03-28 17:14:03.423480 - Found XMIJCL.xmi (application/xmit) in CBT.V508.FILE1023.PDS, moved to PDS/XMIJCL
+2025-03-28 17:14:03.427422 - Found XMIREXX.xmi (application/xmit) in CBT.V508.FILE1023.PDS, moved to PDS/XMIREXX
+2025-03-28 17:14:03.436650 - Found XMISCAN.xmi (application/xmit) in CBT.V508.FILE1023.PDS, moved to PDS/XMISCAN
+2025-03-28 17:14:03.447722 - Found XMIXREF.xmi (application/xmit) in CBT.V508.FILE1023.PDS, moved to PDS/XMIXREF
